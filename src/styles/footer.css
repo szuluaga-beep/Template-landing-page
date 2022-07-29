@@ -15,11 +15,14 @@ footer {
 
 .footer-item {
     margin: 0 10px;
+    list-style: none;
 }
 
 .footer-item-link {
     font-size: 14px;
     color: white;
+    list-style: none;
+    text-decoration: none;
 }
 
 .footer-redes-sociales {
